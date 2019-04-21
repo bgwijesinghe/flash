@@ -2,8 +2,8 @@ package service;
 
 public class Thanuja {
 
-  system.out.println("Thanuja");
-  system.out.println("Chamika");
-  system.out.println("Wijesinghe");
+  System.out.println("Thanuja");
+  System.out.println("Chamika");
+  System.out.println("Wijesinghe");
 
 }
